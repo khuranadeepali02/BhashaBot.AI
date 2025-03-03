@@ -1,7 +1,7 @@
 
 
 import { motion } from "framer-motion"
-import Choose from '../assets/Choose.webp'
+import Choose from '../assets/choose.webp'
 
 export default function WhyChooseUs() {
   const achievements = [
